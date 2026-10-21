@@ -1,0 +1,10 @@
+pandas
+numpy
+scipy
+scikit-learn>=1.7.2
+joblib
+datasets
+matplotlib
+seaborn
+wordcloud
+jupyter
